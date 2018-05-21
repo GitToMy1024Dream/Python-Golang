@@ -71,12 +71,3 @@ def testdb(request):
     # Test.objects.all().delete()
 
     return HttpResponse("<p>删除数据成功</p>")
-
-
-
-
-
-
-
-
-
