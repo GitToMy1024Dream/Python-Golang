@@ -30,4 +30,4 @@ def response_factory(app, handler):
             resp.content_type = 'text/html;charset=utf-8'
             return resp
         if isinstance(r, dict):
-            ...
+            ... # other methods
