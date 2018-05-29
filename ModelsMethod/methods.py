@@ -1,4 +1,5 @@
 # -*- coding:utf-8 -*-
+
 from django.contrib.localflavor.us.models import USStateField
 from django.db import models
 
